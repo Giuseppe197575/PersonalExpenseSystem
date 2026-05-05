@@ -5,7 +5,7 @@ Sistema di gestione delle spese personali su console, scritto in Python con SQLi
 ## Requisiti per l'esecuzione
 
 **Interprete necessario**
-- Python 3.8 o superiore (sviluppato e testato con Python 3.14.4)
+- Python 3.0 o superiore (sviluppato e testato con Python 3.14.4)
 - Download: https://www.python.org/downloads/
 
 **Librerie utilizzate**
